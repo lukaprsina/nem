@@ -1,0 +1,103 @@
+ODVISNIKI
+weil/da-ker
+dass-da
+wenn/als-ko
+deshalb-zato
+obwohl-čeprav
+trotzdem-kljub temu
+denn-kajti
+
+KRAJEVNI PRISLOVI
+rechts-desno
+links-levo
+hier/da-tukaj
+dort-tam
+oben-zgoraj
+unten-spodaj
+vorne-spredaj
+hinten-zadaj
+drinnen-notri
+draußen-zunaj
+überall-povsod
+irgendwo-kjerkoli
+nirgends-nikjer
+hinein-tja noter
+hinaus-tja ven
+hinaus-tja gor
+hinunter-tja dol
+zurück-nazaj
+rückwärts-vzvratno
+
+LASSEN
+lassen-pustiti
+erlauben-dovoliti
+verbieten-prepovedati
+
+ZAIMKI/SKLANJAMO
+man-človek
+jemand/einer-nekdo
+niemand-nihče
+keiner-nobeden
+irgendwer-kdorkoli
+
+ZAIMKI/NE SKLANJAMO
+jedermann-vsakdo
+nichts-nič
+alles-vse
+etwas/ein bisschen-nekaj
+
+ZAIMKI/PRIPNEMO KONČNICO SAMOSTALNIKA
+welch-kakšen
+alle-vsi
+einige-nekateri
+beide-oba
+manch-marsikateri
+viele-veliko
+mehrere-več
+jede-vsak
+
+BESEDIŠČE
+der Liebesfilm-ljubezenski film
+die Flugblätter-letaki
+die Nazi-Diktatur-nacistična diktatura
+der Diktator-diktator
+die Partei-stranka
+die Gestapo-gestapo
+die geheime Staatpolizei-tajna državna policija
+das Gefängnis-zapor
+das Konzentrationslager-koncentracijsko taborišče
+verteilen-razdeliti
+unter dem Namen-pod imenom
+bekannt-znan, poznan
+entdecken-odkriti
+das Mitleid-sočutje
+die Mitglieder-član, članica
+die Gruppenmitglieder-člani skupine
+erwachsen-odrasel
+minderjährig-mladoleten
+volljährig-polnoleten
+heiraten-poročiti
+wählen-voliti
+das Wahlrecht-volilna pravica
+der Führerschein-vozniška
+feiern-praznovati, svetiti
+das Fest-praznik
+der Kimono-kimono
+sich ausleihen-si izposoditi
+die Vorbereitungen-priprave
+anstrengend-naporno
+genannt-imenovan
+sich fühlen-počutiti se
+lebensgefährlich-življenjsko nevarno
+reißen-trgati, odtrgati, razcefrati
+die Mutprobe-preizkus
+hinaufsteigen-vzpenjati se gor
+hinunterspringen-skočiti dol
+der Fallschirm-padalo
+das Hilfsmittel-pripomoček
+steil-strmo
+die Felswand-skalna stena
+der Sauerstoff-kisik
+das Gebäude-stavba
+das Vorbild-vzornik
+der Sprung-skok
